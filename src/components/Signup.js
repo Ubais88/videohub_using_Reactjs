@@ -9,7 +9,7 @@ const Signup = () => {
     
         <VStack alignItems={"stretch"} spacing={"8"} w={['full','96']} m={"auto"} my={"16"}>
 
-            <Heading alignSelf={'center'}>VIDEO HUB</Heading>
+            <Heading alignSelf={'center'} >VIDEO HUB</Heading>
             <Avatar alignSelf={'center'} boxSize={'32'}/>
 
             <Input placeholder={"Name"} type={"text"} focusBorderColor={"purple"} required/>
